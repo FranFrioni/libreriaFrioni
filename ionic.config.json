@@ -1,0 +1,7 @@
+{
+  "name": "libreriaObligatorio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
